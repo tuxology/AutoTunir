@@ -1,0 +1,34 @@
+{
+  "builds": [
+    {
+      "build_id": "123",
+      "image_name": "scim-chewing",
+      "url": "http://koji.fedoraproject.org/koji/buildinfo?buildID=123"
+    },
+        {
+      "build_id": "456",
+      "image_name": "xalan-j2",
+      "url": "http://koji.fedoraproject.org/koji/buildinfo?buildID=456"
+    },
+        {
+      "build_id": "789",
+      "image_name": "libXrandr",
+      "url": "http://koji.fedoraproject.org/koji/buildinfo?buildID=789"
+    },
+        {
+      "build_id": "234",
+      "image_name": "mailcap",
+      "url": "http://koji.fedoraproject.org/koji/buildinfo?buildID=234"
+    },
+        {
+      "build_id": "567",
+      "image_name": "librtas",
+      "url": "http://koji.fedoraproject.org/koji/buildinfo?buildID=567"
+    },
+        {
+      "build_id": "890",
+      "image_name": "xorg-x11-drv-ark",
+      "url": "http://koji.fedoraproject.org/koji/buildinfo?buildID=890"
+    }
+  ]
+}
