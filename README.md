@@ -1,6 +1,6 @@
 AutoTunir
 =========
-This is a web interface for [Tunir](http://tunir.rtfd.org), which is a simple system. For now, it expects a JSON file 
+This is a web interface for [Tunir](http://tunir.rtfd.org), which is a simple CI system. For now, it expects a JSON file 
 with details about the cloud builds and displays its content.
 
 Acknowledgements
